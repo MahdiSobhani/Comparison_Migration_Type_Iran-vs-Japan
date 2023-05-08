@@ -1,5 +1,5 @@
-# pe_Migration_Iran-vs-Japan
-Example: Student Visa - Work Visa - Visitor Visa - Residence Visa &amp; etc
+# Comparison_Migration_Type_Iran-vs-Japan
+Student Visa - Work Visa - Visitor Visa - Residence Visa &amp; etc
 
 
 
